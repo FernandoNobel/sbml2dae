@@ -11,7 +11,9 @@ authors = [
   ]
 license = "Apache-2.0"
 readme = "README.md"
+homepage = "https://github.com/sb2cl/sbml2dae"
 repository = "https://github.com/sb2cl/sbml2dae"
+keywords = ["SBML", "dae", "simulation", "parser", "MATLAB"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Science/Research",
