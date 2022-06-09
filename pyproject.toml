@@ -2,7 +2,13 @@
 name = "sbml2dae"
 version = "0.1.0"
 description = "A customizable SBML to Matlab parse"
-authors = ["Fernando N. Santos Navarro <fersann1@upv.es>"]
+authors = [
+  "Fernando N. Santos Navarro <fersann1@upv.es>",
+  "Jose Luis Navarro",
+  "Yadira Boada",
+  "Alejandro Vignoni",
+  "Jesús Picó"
+  ]
 license = "Apache-2.0"
 readme = "README.md"
 repository = "https://github.com/sb2cl/sbml2dae"
