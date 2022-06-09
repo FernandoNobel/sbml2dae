@@ -35,7 +35,7 @@ pip install sbml2dae
 
 SBML2dae provides a simple command-line interface to export SBML models into Matlab code.
 
-Go to the examples folder in this the repository and use the following command:
+Go to the examples folder in this repository and use the following command:
 ```
 sbml2dae export ex01_simple_gene_expression.xml
 ```
