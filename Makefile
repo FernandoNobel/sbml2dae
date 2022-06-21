@@ -7,6 +7,8 @@ test:
 lint:
 	poetry run nox -s lint
 
+# Poetry does not place the NOTICE file inside the dist-info folder
+# TODO: When poetry fixes this bug, we can remove the code for moving the NOTICE file.
 build:
 	rm -r dist
 	poetry build
