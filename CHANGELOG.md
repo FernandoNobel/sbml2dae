@@ -17,5 +17,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Extracted SBML2dae from the OneModel repository.
 
-[unreleased]: https://github.com/sb2cl/sbml2dae/compare/v0.1.4...HEAD
+[unreleased]: https://github.com/sb2cl/sbml2dae/compare/v0.1.4...develop:HEAD
 [0.1.4]: https://github.com/sb2cl/sbml2dae/releases/tag/v0.1.4
