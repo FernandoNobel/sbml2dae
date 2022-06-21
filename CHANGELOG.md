@@ -10,6 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Add the changelog.
+- Add Makefile build for building the project using poetry.
+
+### Fixed
+
+- `make build` moves the NOTICE file to the correct folder in the wheel file.
 
 ## [0.1.4] - 2022-06-13
 
