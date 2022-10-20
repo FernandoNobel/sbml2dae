@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sbml2dae"
-version = "0.1.5"
+version = "0.1.6"
 description = "A customizable SBML to Matlab parser"
 authors = [
   "Fernando N. Santos Navarro <fersann1@upv.es>",
