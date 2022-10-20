@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sbml2dae"
-version = "0.1.6"
+version = "0.1.7"
 description = "A customizable SBML to Matlab parser"
 authors = [
   "Fernando N. Santos Navarro <fersann1@upv.es>",
@@ -32,7 +32,7 @@ include = ["NOTICE"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-python-libsbml = "5.19.5"
+python-libsbml = "5.19.2"
 click = "^8.0.0"
 
 [tool.poetry.dev-dependencies]
