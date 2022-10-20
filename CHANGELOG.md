@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.6] - 2022-10-20
+
+### Fixed
+
+- Fix bug with initialCondition of algebraic states.
+
+## [0.1.5] - 2022-06-21
+
 ### Added
 
 - Add the changelog.
@@ -22,5 +30,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Extracted SBML2dae from the OneModel repository.
 
-[unreleased]: https://github.com/sb2cl/sbml2dae/compare/v0.1.4...develop
+[unreleased]: https://github.com/sb2cl/sbml2dae/compare/v0.1.5...develop
+[0.1.5]: https://github.com/sb2cl/sbml2dae/compare/v0.1.4...v0.1.5
 [0.1.4]: https://github.com/sb2cl/sbml2dae/releases/tag/v0.1.4

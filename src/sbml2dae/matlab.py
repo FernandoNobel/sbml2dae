@@ -141,7 +141,7 @@ class Matlab:
             if item["type"] == StateType.ODE:
                 f.write(f'\t\t\t\t{item["initialCondition"]} % {item["id"]}\n')
             elif item["type"] == StateType.ALGEBRAIC:
-                f.write('\t\t\t\t{item["initialCondition"]}')
+                f.write(f'\t\t\t\t{item["initialCondition"]}')
                 f.write(f'% {item["id"]} (algebraic)\n')
         f.write("\t\t\t];\n")
 
